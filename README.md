@@ -30,7 +30,7 @@ DPtSTrip and DPtSTrip-Fit can be trained on other datasets in the same way as ci
 @article{Wang2024Adversarially,
   author = "Ran, Wang and Meng, Hu and Xinlei, Zhou and Yuheng, Jia",
   title = " DPtSTrip: Adversarially Robust Learning with Distance-Aware Point-to-Set Triplet Loss",
-  journal = "Under Review",
+  journal = "Submitted to Pattern Recognition ",
   year = "2025"
 }
 ```
