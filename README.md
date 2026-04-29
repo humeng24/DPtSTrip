@@ -19,7 +19,7 @@
 
 This repository provides the official PyTorch implementation of **DPtSTrip** and **DPtSTrip-Fit**, proposed in:
 
-> Ran Wang, Meng Hu, Xinlei Zhou, Yuheng Jia，DPtSTrip: Adversarially robust learning with distance-aware point-to-set triplet loss，Pattern Recognition*, Volume **173**, Article **112840**, 2026.
+> **Ran Wang**, **Meng Hu**, **Xinlei Zhou**, **Yuheng Jia**，DPtSTrip: Adversarially robust learning with distance-aware point-to-set triplet loss，Pattern Recognition*, Volume **173**, Article **112840**, 2026.
 
 DPtSTrip introduces a novel **Distance-Aware Point-to-Set Triplet Loss** framework for adversarially robust learning. By replacing conventional point-to-point metric constraints with point-to-set optimization, DPtSTrip significantly improves:
 
